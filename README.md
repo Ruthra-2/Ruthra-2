@@ -1,4 +1,4 @@
-<a href="https://github.com/ruthrar321">
+<a href="https://github.com/Ruthra-2">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ruthra%20G&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20Android%20%7C%20Cloud%20Enthusiast&descAlignY=62&descSize=16" width="100%"/>
 </a>
 
@@ -8,10 +8,10 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=ruthrar321&color=70a5fd&style=flat-square&label=Profile+Views)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ruthrar321)
+![Profile Views](https://komarev.com/ghpvc/?username=Ruthra-2&color=70a5fd&style=flat-square&label=Profile+Views)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ruthra-g)
 [![Email](https://img.shields.io/badge/Email-ruthrar321%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ruthrar321@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-ruthrar321-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ruthrar321)
+[![GitHub](https://img.shields.io/badge/GitHub-Ruthra-2-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Ruthra-2)
 
 </div>
 
@@ -95,11 +95,11 @@ class Ruthra:
 
 <div align="center">
 
-<a href="https://github.com/ruthrar321">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ruthrar321&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
+<a href="https://github.com/Ruthra-2">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Ruthra-2&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
 </a>
-<a href="https://github.com/ruthrar321">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruthrar321&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
+<a href="https://github.com/Ruthra-2">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruthra-2&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
 </a>
 
 </div>
@@ -110,7 +110,7 @@ class Ruthra:
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=ruthrar321&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=Ruthra-2&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="GitHub Streak"/>
 
 </div>
 
@@ -120,7 +120,7 @@ class Ruthra:
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ruthrar321&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ruthra-2&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="100%"/>
 
 </div>
 
@@ -130,7 +130,7 @@ class Ruthra:
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=ruthrar321&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Ruthra-2&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4"/>
 
 </div>
 
@@ -161,8 +161,8 @@ class Ruthra:
 
 | Project | Stack | Highlights |
 |---------|-------|------------|
-| [**🧠 IvoryMind**](https://github.com/ruthrar321) | Kotlin · Firebase · Python · REST APIs · ML · Android Studio | Full-stack Android app with real-time parent-student data sync · Random Forest ML addiction predictor · WorkManager for async scheduling · End-to-end ownership: frontend, backend & cloud |
-| [**💬 Daily Quotes Web App**](https://github.com/ruthrar321) | HTML · CSS · JavaScript | Responsive SPA with quote viewing & creation · Motivational & Funny categories · Built using DOM manipulation & modular JS architecture |
+| [**🧠 IvoryMind**](https://github.com/Ruthra-2) | Kotlin · Firebase · Python · REST APIs · ML · Android Studio | Full-stack Android app with real-time parent-student data sync · Random Forest ML addiction predictor · WorkManager for async scheduling · End-to-end ownership: frontend, backend & cloud |
+| [**💬 Daily Quotes Web App**](https://github.com/Ruthra-2) | HTML · CSS · JavaScript | Responsive SPA with quote viewing & creation · Motivational & Funny categories · Built using DOM manipulation & modular JS architecture |
 
 </div>
 
@@ -212,8 +212,8 @@ class Ruthra:
 
 *"Build things. Break things. Fix things. Repeat."* 🚀
 
-[![GitHub followers](https://img.shields.io/github/followers/ruthrar321?label=Follow&style=flat-square&color=70a5fd)](https://github.com/ruthrar321)
-[![GitHub stars](https://img.shields.io/github/stars/ruthrar321?label=Stars&style=flat-square&color=bf91f3)](https://github.com/ruthrar321)
+[![GitHub followers](https://img.shields.io/github/followers/Ruthra-2?label=Follow&style=flat-square&color=70a5fd)](https://github.com/Ruthra-2)
+[![GitHub stars](https://img.shields.io/github/stars/Ruthra-2?label=Stars&style=flat-square&color=bf91f3)](https://github.com/Ruthra-2)
 
 </div>
 
