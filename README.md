@@ -11,7 +11,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Ruthra-2&color=70a5fd&style=flat-square&label=Profile+Views)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ruthra-g)
 [![Email](https://img.shields.io/badge/Email-ruthrar321%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ruthrar321@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Ruthra-2-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Ruthra-2)
+[![GitHub](https://img.shields.io/badge/GitHub-Ruthra--2-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Ruthra-2)
 
 </div>
 
@@ -26,7 +26,7 @@ class Ruthra:
     name        = "Ruthra G"
     location    = "Puducherry, India 🇮🇳"
     degree      = "B.Tech CSE — Women's Engineering College (2026)"
-    cgpa        = 7.10
+    cgpa        = 7.29
 
     stack = [
         "Kotlin", "Flutter & Dart",
@@ -177,7 +177,7 @@ class Ruthra:
 | 🤖 | **ChatGPT Prompt Engineering for Developers** | Completed — DeepLearning.AI & OpenAI |
 | ☁️ | **AWS Solutions Architecture Job Simulation** | Completed — Forage |
 | 📱 | **IvoryMind — Full Production Android App** | Sole developer · Kotlin + Firebase + ML · End-to-end delivery |
-| 🎓 | **B.Tech CSE Graduate** | Women's Engineering College, Puducherry · CGPA 7.10 · 2026 |
+| 🎓 | **B.Tech CSE Graduate** | Women's Engineering College, Puducherry · CGPA 7.29 · 2026 |
 
 </div>
 
@@ -189,7 +189,7 @@ class Ruthra:
 
 | Degree | Institution | Year | Score |
 |--------|-------------|------|-------|
-| B.Tech — Computer Science Engineering | Women's Engineering College, Puducherry | 2022 – 2026 | CGPA: 7.10 |
+| B.Tech — Computer Science Engineering | Women's Engineering College, Puducherry | 2022 – 2026 | CGPA: 7.29 |
 
 </div>
 
